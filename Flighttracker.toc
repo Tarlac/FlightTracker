@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: FlightTracker
+## Notes: Tracks flight paths and times
+## Author: Tarlac
+## Version: 1.0
+## SavedVariables: FlightTrackerGlobalDB
+
+
+FlightTracker.lua
